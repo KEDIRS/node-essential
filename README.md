@@ -8,4 +8,3 @@ Features
 Basic HTTP server: A simple server handling basic requests.
 API routes: A few RESTful API routes to handle client requests.
 Asynchronous programming: Demonstrating asynchronous handling of requests.
-Getting Started
